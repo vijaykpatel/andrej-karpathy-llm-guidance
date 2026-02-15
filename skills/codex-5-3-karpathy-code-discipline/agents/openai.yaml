@@ -1,0 +1,4 @@
+interface:
+  display_name: "Karpathy Code Discipline"
+  short_description: "Maintainability-first coding guardrails"
+  default_prompt: "Use Karpathy-style coding discipline: simplify first, state assumptions, make minimal coherent changes, and define concrete validation."
